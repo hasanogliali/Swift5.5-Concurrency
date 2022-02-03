@@ -81,6 +81,5 @@ class UnstructuredTasksViewController: UIViewController {
     
     func cancelDownload() {
         downloadAndShowTask?.cancel()
-        //TODO: neden cancel edilmedi.
     }
 }
