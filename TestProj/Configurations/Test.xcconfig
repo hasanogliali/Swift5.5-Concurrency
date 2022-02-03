@@ -1,0 +1,13 @@
+//
+//  Test.xcconfig
+//  TestProj
+//
+//  Created by Ali Hasanoğlu on 12.12.2021.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BASE_URL = https:\/\/yyy.xxx.com.tr\/test
+BUNDLE_ID = com.hasanogliali.testproj.test
+APP_NAME = APP Test
